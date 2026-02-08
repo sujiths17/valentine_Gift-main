@@ -19,7 +19,7 @@ function generateValentineMessage(name = "You") {
         "Isaaa… 🌊 Hay algo que mi corazón ha estado tratando de confesarte desde hace un tiempo. En algún lugar entre nuestras conversaciones, tu risa y los pequeños momentos que compartimos… Creo que me enamoré de ti en silencio. No puedo explicar cuándo empezó ni cómo se hizo tan profundo… pero cada día contigo se siente como descubrir un nuevo color en la vida. Traes una calidez que hace que los momentos ordinarios se sientan especiales, y tu voz tiene esta hermosa magia que me llena de energía y una calma pacífica, casi celestial. Estar cerca de ti se siente seguro, real y raro… como una felicidad que nunca quiero perder… como una felicidad a la que quiero aferrarme para siempre en esta vida… No sé cómo te hará sentir esta confesión… tal vez sorprendido, tal vez inseguro, tal vez incluso abrumado… pero no podía seguir ocultando esos sentimientos tan honestos. Te has convertido en alguien increíblemente precioso para mí… y simplemente no quería arriesgarme a perder a un ángel tan increíble de mi vida sin decirte lo mucho que significas para mí.."
     ];
     const middles = [
-        `Every moment with ${name} feels warmer and more real.`,
+        `Every moment with feels warmer and more real.`,
         `You make ordinary days unforgettable.`,
         `Being around you feels like home.`
     ];
